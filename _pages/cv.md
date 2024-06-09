@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<span style = "font-size:1.5em; margin-left: -25px;"> [Download in PDF Form](/files/Concise-Resume-Mithil.pdf) </span>
+<span style = "font-size:1.5em; margin-left: -25px;"> [Download in PDF Form](/files/Gunjan-Lunkad-Resume.pdf) </span>
 
 Education
 ======
